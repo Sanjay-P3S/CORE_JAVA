@@ -11,7 +11,7 @@ class Ones{
 
 class Twos{
     synchronized public void method3(Ones ob){
-        System.out.println("Method 2 started");
+        System.out.println("Method 3 started");
         ob.method2();
 
 
