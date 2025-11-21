@@ -8,5 +8,6 @@ public class Main {
 
        int n = scan.nextInt();
        System.out.println("Welcome to this java "+n);
+       System.out.println("This part contains core java concepts");
     }
 }
